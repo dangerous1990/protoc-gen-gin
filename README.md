@@ -2,6 +2,7 @@
 
 ## require
 * protoc
+
 brew install protoc 
 ## go install
 install protoc-gen-gin to your $GOPATH
