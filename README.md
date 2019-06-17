@@ -2,6 +2,7 @@
 
 ## require
 * protoc
+* go 1.12+
 
 brew install protoc 
 ## go install
