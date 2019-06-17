@@ -1,1 +1,1 @@
-# proto-gen-gin
+# protc-gen-gin
